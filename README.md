@@ -14,8 +14,10 @@ First, clone the repository from GitHub using the following Git commands:
 
 ```shell
 git clone https://github.com/SwastikaSoni/vit-chatbot.git
+```
+```shell
 cd vit-chatbot
-
+```
 
 ### Install Dependencies
 
